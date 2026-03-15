@@ -12,7 +12,7 @@ const navLinks = [
   { label: "Contact", href: "#contact" },
 ];
 
-const BOOKMYSHOW_URL = "https://in.bookmyshow.com/explore/cinemas-aluva";
+const BOOKMYSHOW_URL = "https://in.bookmyshow.com/cinemas/kochi/casino-talkies-a-c-real-laser-3d-dolby-71-aluva/buytickets/CAIS/20260319";
 
 const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
