@@ -1,14 +1,15 @@
 import { motion } from "framer-motion";
 import { ExternalLink } from "lucide-react";
+import aadu3Poster from "../assets/aadu3.png";
 
-const BOOKMYSHOW_URL = "https://in.bookmyshow.com/explore/cinemas-aluva";
+const BOOKMYSHOW_URL = "https://in.bookmyshow.com/cinemas/kochi/casino-talkies-a-c-real-laser-3d-dolby-71-aluva/buytickets/CAIS/20260319";
 
 const shows = [
   {
-    title: "Akhanda 2",
+    title: "Aadu 3",
     language: "Malayalam",
     timings: "10:00 AM, 1:30 PM, 6:00 PM, 9:30 PM",
-    poster: "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=300&h=450&fit=crop",
+    poster: aadu3Poster,
   },
   {
     title: "L2: Empuraan",
